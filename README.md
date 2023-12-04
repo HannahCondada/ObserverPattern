@@ -30,4 +30,5 @@
   - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 # Observer Pattern Diagram
-![Observer Pattern](https://github.com/HannahCondada/ObserverPattern/assets/142371011/15467119-f6b1-46f7-b5d6-82881eee2fa4)
+![Observer Pattern](https://github.com/HannahCondada/ObserverPattern/assets/142371011/46e63a95-421f-469d-bf25-97ca16deecf2)
+
